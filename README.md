@@ -6,4 +6,5 @@
 - 📂 **Projects:** AI models, Data Analysis, Power BI dashboards  
 
 🔗 **Portfolio:** https://github.com/code-with-parth
+
 📫 **Contact:** deshpandeparth954@gmail.com | https://www.linkedin.com/in/parth-d-720584256
